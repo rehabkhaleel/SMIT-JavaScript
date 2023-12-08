@@ -1,0 +1,23 @@
+body {
+    background-color: silver;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+button {
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: #05aa6e;
+    /* Green */
+    color: white;
+}
+content{
+    justify-content: center;
+}
